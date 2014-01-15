@@ -1,0 +1,26 @@
+{
+  "name": "long.distance.sucks",
+  "version": "0.0.0",
+  "description": "We bake cakes.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Linn212/long.distance.sucks.git"
+  },
+  "keywords": [
+    "cakes"
+  ],
+  "author": "Linn",
+  "license": "Muffin",
+  "bugs": {
+    "url": "https://github.com/Linn212/long.distance.sucks/issues"
+  },
+  "homepage": "https://github.com/Linn212/long.distance.sucks",
+  "dependencies": {
+    "logfmt": "~0.18.1",
+    "express": "~3.4.7"
+  }
+}
