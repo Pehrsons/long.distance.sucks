@@ -21,6 +21,7 @@
   "homepage": "https://github.com/Linn212/long.distance.sucks",
   "dependencies": {
     "logfmt": "~0.18.1",
-    "express": "~3.4.7"
+    "express": "~3.4.7",
+    "ejs": "~0.8.5"
   }
 }
