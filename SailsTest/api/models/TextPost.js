@@ -3,7 +3,7 @@ var Textpost = {
 	attributes: {
 		author: 'STRING',
 		timestamp: 'datetime',
-		content: 'text
+		content: 'text'
 	}
 };
 
